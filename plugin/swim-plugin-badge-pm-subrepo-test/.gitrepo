@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ingydotnet/swim-plugin-badge-pm-subrepo-test.git
+	branch = master
+	commit = bf6c35586fd899c3db52fc5cab916068c46b063a
+	parent = 3cb7ed074efb6e35eb9f5d4019b26ec81197a9fb
+	cmdver = 0.1.0
